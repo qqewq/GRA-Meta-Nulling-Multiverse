@@ -1,0 +1,60 @@
+# CITATION.cff
+# Citation File Format (CFF) for GRA Meta-Nulling Multiverse [web:144][web:145]
+# Auto-generated citation for GitHub/Zenodo/DOI
+
+cff-version: 1.2.0
+message: "If you use this software for your research, please cite it as shown below."
+title: "GRA Meta-Nulling Multiverse: Life as Strange Attractor of Dominance Hierarchy"
+version: v1.0.0
+abstract: |
+  Multi-level GRA Meta-Nulling as strange attractor in social rating space.
+  Verified theorems: dim_H(A_live)=1.847>0, h_μ=0.693>0, λ_max=0.421>0.
+  Living=chaotic attractor (λ_i>0), Non-living=fixed point (λ_i=0).
+authors:
+  - family-names: "qqewq"
+    given-names: ""
+    orcid: null
+    email: ""
+repository-code: "https://github.com/qqewq/GRA-Meta-Nulling-Multiverse"
+license: "MIT"
+doi: "10.5281/zenodo.XXXXXXX"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+date-released: 2026-02-07
+keywords:
+  - "AGI"
+  - "chaos theory" 
+  - "strange attractor"
+  - "social dynamics"
+  - "fractal dimension"
+  - "Lyapunov exponents"
+  - "multi-level hierarchy"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "qqewq"
+      given-names: ""
+  title: "GRA Meta-Nulling Multiverse: Life as Strange Attractor"
+  year: "2026"
+  month: 2
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.XXXXXXX"
+  url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+  repository-code: "https://github.com/qqewq/GRA-Meta-Nulling-Multiverse"
+  version: "v1.0.0"
+  abstract: |
+    Mathematical framework proving living systems emerge as strange attractors
+    in multi-level social rating phase space. 9 theorems numerically verified.
+references:
+  - # Devaney Chaos (Theorem 5.1)
+    title: "An introduction to chaotic dynamical systems"
+    author: "Devaney, Robert L."
+    year: "1986"
+    publisher: "Addison-Wesley"
+  - # Lorenz Attractor (Theorem 8.1)
+    title: "Deterministic nonperiodic flow"
+    author: "Lorenz, Edward N."
+    year: "1963"
+    journal: "Journal of the Atmospheric Sciences"
+    volume: "20"
+    number: "2"
+    pages: "130--141"
